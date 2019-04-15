@@ -13,11 +13,11 @@ Please click on the Branches to acces diffrent weeks work.
 
 **WEEK-3:** na
 
-**WEEK-4:** In class assesment. 
+**WEEK-4:** In class assessment. 
 
-**WEEK-5:** na
+**WEEK-5:** No Class
 
-**WEEK-6:** na
+**WEEK-6:** Wordcram activity and intro to processing libraries. created a Harry Potter wordcram with my group. 
 
 **WEEK-7:** na
 

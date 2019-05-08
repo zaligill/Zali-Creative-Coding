@@ -19,11 +19,11 @@ Please click on the Branches to acces diffrent weeks work.
 
 **WEEK-6:** Wordcram activity and intro to processing libraries. created a Harry Potter wordcram with my group. 
 
-**WEEK-7:** na
+**WEEK-7:** Missed class. 
 
-**WEEK-8:** na
+**WEEK-8:** continued working on project.
 
-**WEEK-9:** na
+**WEEK-9:** In class presentations. 
 
 **WEEK-10:** na
 

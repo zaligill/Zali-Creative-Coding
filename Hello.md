@@ -25,7 +25,12 @@ Please click on the Branches to acces diffrent weeks work.
 
 **WEEK-9:** In class presentations. 
 
-**WEEK-10:** na
+**WEEK-10:** Continued working on A3. 
 
+**WEEK-11:** Continued working on A3. Got my Maze Genorter, my colour tracker, and text working sepretly. 
+
+**WEEK-12:** Continued working on A3. Tried to put together my three elements. Figured out they were too big to go together and had to quickly come up with a plan B. 
+
+**WEEK-13:** In class presentations. 
 
 Thanks 
